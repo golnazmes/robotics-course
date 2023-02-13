@@ -1,5 +1,5 @@
 # CMPUT503 (Robotics)
-
+Cancel changes
 This Repository is for sharing codes and exercises of CMPUT 503 course at the UofA. \
 More information can be found on this personal website: https://golnazmes.github.io/Robotics.html
 
@@ -7,9 +7,9 @@ More information can be found on this personal website: https://golnazmes.github
 
 Each exercise has its own directory. \
 All the exercises follow the format of this repository.: https://github.com/duckietown/template-ros \
-This template provides a boilerplate repository for developing ROS-based software in Duckietown. \
+This template provides a boilerplate repository for developing ROS-based software in Duckietown. 
 
-To run the code, you need to cd to the directory of that exercise, and build and run the code on duckiebot with the following commands: \
+To run the code, you need to cd to the directory of that exercise, and build and run the code on duckiebot with the following commands: 
 
 ```bash
 cd ExerciseX
