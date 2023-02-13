@@ -27,6 +27,6 @@ This exercise was about the introduction to ROS and kinematics.
 We built the following tasks for this lab: \
 1- Make the duckiebot move in a multi-state task \
 2- Make the duckiebot change its LED colors \
-3- Estimate the robot’s pose in the world frame, and an introduction to odometry 
-
+3- Estimate the robot’s pose in the world frame, and an introduction to odometry
+We worked as teammates for this exercise. The code in exercise2 directory is from: https://github.com/samuelfneumann/CMPUT503/tree/master/Code/Lab2
 
