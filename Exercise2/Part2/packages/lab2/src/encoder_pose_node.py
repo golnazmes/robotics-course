@@ -206,7 +206,10 @@ class EncoderPoseNode(DTROS):
         self._stop()
         self._set_state(_State.STATE2a)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a020a49bd83d693102ff2227b87ef355a2511528
         self.log(f"{node_name} initialized.")
 
     def resetParameters(self):
