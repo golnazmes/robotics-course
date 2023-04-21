@@ -35,10 +35,10 @@ This exercise was about Computer Vision and Sensor Fusion. \
 We implemented apriltag detection, a PID controller for lane following, performed localization, and worked with transformations. 
 
 ### Exercise 4
-We implemented a tailing behavior for the duckiebot in this exersice. \
+We implemented a tailing behavior for the duckiebot in this exersice. 
 
 ### Exercise 5
-We implemented a machine learning model for digit classification in the duckietown! \
+We implemented a machine learning model for digit classification in the duckietown! 
 
 ### Final Project
 The final project was a demonstration of using all the concepts we learned during the semester. The duckiebot should perform a set of tasks in the duckietown including apriltag detection, lane following, avoiding other robots, and parking.
