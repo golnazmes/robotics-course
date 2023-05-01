@@ -42,3 +42,6 @@ We implemented a machine learning model for digit classification in the duckieto
 
 ### Final Project
 The final project was a demonstration of using all the concepts we learned during the semester. The duckiebot should perform a set of tasks in the duckietown including apriltag detection, lane following, avoiding other robots, and parking.
+
+##Final Grad Project
+Code is adapted from https://github.com/jihoonog/CMPUT-503-Exercise-5  for expercise 5 and modified for using human feedback to improve classification.
